@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 zxc
-=======
 def
->>>>>>> refs/heads/newBranch
